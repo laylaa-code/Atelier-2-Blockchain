@@ -1,0 +1,9 @@
+attaque,detecteur,VP,FP,FN,VN,precision_pourcent,rappel_pourcent,temps_detection_moyen_tours
+51_pourcent,adaptatif,96,0,0,48,100.0000,100.0000,10.5000
+51_pourcent,fixe,96,0,0,48,100.0000,100.0000,10.5000
+block_withholding,adaptatif,80,0,16,48,100.0000,83.3333,44.0000
+block_withholding,fixe,80,0,16,48,100.0000,83.3333,44.0000
+selfish_mining,adaptatif,96,0,0,48,100.0000,100.0000,18.3333
+selfish_mining,fixe,96,24,0,24,80.0000,100.0000,18.6667
+sybil,adaptatif,96,0,0,48,100.0000,100.0000,2.0000
+sybil,fixe,96,0,0,48,100.0000,100.0000,2.0000
